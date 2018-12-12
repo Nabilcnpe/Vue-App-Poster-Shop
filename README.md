@@ -1,12 +1,8 @@
-# Ultimate Vue.js Developers Course
-
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
-
-### Project 1: Vue.js Poster Shop
+### Project : Vue.js Poster Shop
 
 #### Demo
 
-See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](http://vuejs-poster-shop.vuejsdevelopers.com/)
+See the completed project here: 
 
 #### Pre-installation
 
@@ -61,10 +57,6 @@ See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](
     ```
 
 6. Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
-
-#### Lecture branches
-
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
 
 #### It's not working!
 
